@@ -21,3 +21,7 @@ hello <- function() {
 hello_again <- function() {
   print("Hello, again!")
 }
+
+hello_again <- function() {
+  print("Hello, Snowbs!")
+}
